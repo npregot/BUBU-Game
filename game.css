@@ -1,0 +1,17 @@
+
+html {
+	background-color: black; /* gives a black color to the html page*/
+}
+
+#title {
+	display: block; /* To display the element in center of the page*/
+	margin: auto; /* To display the element in center of the page*/
+}
+
+#gameCanvas {
+	padding: 15px; /* Thickness of the grey frame around the canvas */
+	display: block; /* To display the element in center of the page*/
+	margin: 0 auto; /* To display the element in center of the page*/
+	background-color: #7c8593; /* The color of the frame  */
+
+}
